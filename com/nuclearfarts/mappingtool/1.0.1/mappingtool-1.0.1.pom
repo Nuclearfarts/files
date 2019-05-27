@@ -21,8 +21,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.ow2.asm-tree</groupId>
-      <artifactId>asm</artifactId>
+      <groupId>org.ow2.asm</groupId>
+      <artifactId>asm-tree</artifactId>
       <version>6.2.1</version>
       <scope>compile</scope>
     </dependency>
