@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nuclearfarts</groupId>
   <artifactId>mappingtool</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>MappingTool</description>
   <url>http://github.com/nuclearfarts/mappingtool</url>
   <dependencies>
